@@ -1,3 +1,3 @@
 # hello-world
-Testing GitHub
+Fight me, brother.
 Just writing some stuff, bruh.
